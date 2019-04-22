@@ -1,0 +1,6 @@
+1) git init создание пустого репозитори€
+2) echo >> README.md
+3) git config --local user.name "Sasha"
+4) git config --local user.email lazer361@mail.ru
+5) git add -A
+6) git status —татус
