@@ -4,3 +4,10 @@
 4) git config --local user.email lazer361@mail.ru
 5) git add -A
 6) git status Статус
+7) git commit -a -m "Это наш первый коммит"
+8) git log
+9) git log --help
+10) clear
+11) git remote add origin https://github.com/Alexander361/test.git
+12) git push -u origin master
+13) git push test
